@@ -11414,7 +11414,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: cover ;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
