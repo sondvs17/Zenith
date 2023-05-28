@@ -12,3 +12,4 @@ for i in menu:
     Print("===================================================")
     Beli = Input ("Pilih Menu : ") 
     Jumlah = int(Input ("Jumlah pesanan : "))
+    Bayar = jumlah * menu[beli]
