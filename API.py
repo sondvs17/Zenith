@@ -4,3 +4,5 @@ Barang Jualan = {
     "Celana jeans"  : 210000,
     "Kemeja wanita" : 142000,
     "blazer wanita" : 130000
+    }
+Print("===================== Daftar Harga =====================") 
