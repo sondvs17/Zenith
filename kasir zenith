@@ -6,3 +6,5 @@ Barang Jualan = {
     "blazer wanita": 130000
 }
 Print("===================== Daftar Harga =====================") 
+for i in menu:
+Print("Daftar Menu : ", i,"\t Harga : ",menu[i])
