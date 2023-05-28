@@ -14,5 +14,6 @@ for i in menu:
     Jumlah = int(Input ("Jumlah pesanan : "))
     Bayar = jumlah * menu[beli]
 
-    if bayar > 210000:
+    if bayar > 100000:
         diskon = bayar*15/100
+        total = bayar - diskon
