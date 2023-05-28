@@ -8,3 +8,5 @@ Barang Jualan = {
 Print("===================== Daftar Harga =====================") 
 for i in menu:
     Print("Daftar Menu : ", i,"\t Harga : ",menu[i])
+    Print("Pembelian diatas Rp100.000,- mendapatkan diskon 15%")
+    Print("===================================================")
