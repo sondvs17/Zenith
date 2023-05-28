@@ -17,3 +17,5 @@ for i in menu:
     if bayar > 100000:
         diskon = bayar*15/100
         total = bayar - diskon
+   else:
+    total = bayar   
