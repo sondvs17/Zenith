@@ -10,3 +10,5 @@ for i in menu:
     Print("Daftar Menu : ", i,"\t Harga : ",menu[i])
     Print("Pembelian diatas Rp100.000,- mendapatkan diskon 15%")
     Print("===================================================")
+    Beli = Input ("Pilih Menu : ") 
+    Jumlah = int(Input ("Jumlah pesanan : "))
