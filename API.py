@@ -19,3 +19,4 @@ for i in menu:
         total = bayar - diskon
    else:
     total = bayar   
+    print("--------------> Detail Pembayaran <---------------")
