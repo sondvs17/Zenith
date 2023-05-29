@@ -22,3 +22,4 @@ for i in menu:
     print("--------------> Detail Pembayaran <---------------")
     print("Barang yang di pesan             : ",beli)
     print("Jumlah Barang yang di pesan      : ",jumlah)
+    print("Total Biaya                      : ",bayar)
