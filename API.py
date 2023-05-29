@@ -20,3 +20,4 @@ for i in menu:
    else:
     total = bayar   
     print("--------------> Detail Pembayaran <---------------")
+    print("Barang yang di pesan             : ",beli)
